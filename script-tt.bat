@@ -5,10 +5,10 @@
 set URL1=https://www.tiktok.com/tos-live-studio/releases/12265072/0.74.4/win32-x64/tiktok_live_studio-v0.74.4.exe
 set OUTPUT1=tiktok_live_studio-v0.74.4.exe
 
-set URL2=https://www.e2esoft.com/files/VCam_v6.4.exe
-set OUTPUT2=VCam_v6.4.exe
+set URL2=https://download3.manycams.com/installer/ManyCamSetup.exe
+set OUTPUT2=ManyCamSetup.exe
 
-set URL3=https://www.e2esoft.com/files/VSC_v2.2.exe
+set URL3=https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack45.zip
 set OUTPUT3=VSC_v2.2.exe
 
 :: Cek apakah curl tersedia
